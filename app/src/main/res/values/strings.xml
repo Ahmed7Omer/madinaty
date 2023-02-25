@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MADINATY</string>
+    <string-array name="Spinner_item">
+        <item>الاسواق والصحة</item>
+        <item>الامراض والاوبئة</item>
+        <item>الطروق والجسور</item>
+        <item>كهرباء</item>
+        <item>حريق</item>
+        <item>مخابز(افرن)</item>
+        <item>نهب (عصابات)</item>
+        <item>سرقة</item>
+        <item>مرافق عامة</item>
+        <item>محطات وقود</item>
+    </string-array>
+
+    <string-array name="Spinner1_item">
+        <item>الخرطوم</item>
+        <item>كوستي</item>
+        <item>سنار</item>
+        <item>الدويم</item>
+        <item>مدني</item>
+        <item>الابيض</item>
+        <item>بورتسودان</item>
+    </string-array>
+
+    <string-array name="Spinner2_item">
+        <item>الاندلس</item>
+        <item>28</item>
+        <item>النصري</item>
+        <item>ابوشريف</item>
+        <item>القدس</item>
+        <item>المرابيع</item>
+        <item>27</item>
+    </string-array>
+
+    <string-array name="Spinner3_item">
+        <item>عادي</item>
+        <item>متوسط الخطورة</item>
+        <item>غاية الخطورة</item>
+
+    </string-array>
+
+</resources>
